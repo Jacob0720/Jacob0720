@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey, I'm Jacob Lopez
 
-<!--
-**Jacob0720/Jacob0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering graduate with a passion for **Cloud Engineering** and **DevOps**.  
+I love building secure, serverless systems with AWS and automating the boring stuff.
 
-Here are some ideas to get you started:
+## 🛠️ What I’ve Built Recently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [🔢 Serverless Number API](https://github.com/Jacob0720/serverless-number-api)
+A fully serverless Python API that checks if a number is even or prime.  
+Built with **Lambda**, **API Gateway**, and **DynamoDB**, deployed with **AWS SAM**.
+
+- Logs usage to DynamoDB
+- Written in Python 3.11
+- 100% Infrastructure-as-Code
+
+## 🌩️ Tech I Work With
+
+- **Cloud:** AWS (Lambda, API Gateway, DynamoDB, S3, IAM, CloudWatch)
+- **IaC:** AWS SAM, CloudFormation, Terraform (learning)
+- **DevOps:** Docker, GitHub Actions, Linux
+- **Languages:** Python, Bash, some Node.js
+
+## 📫 Let’s Connect
+
+- [LinkedIn](https://linkedin.com/in/jacobl0720)
+- [GitHub](https://github.com/Jacob0720)
+
+> Open to cloud/devops roles and ready to ship production-grade infra 🚀
