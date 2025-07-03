@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jacob Lopez
+# 👋 Jacob Lopez — Cloud & DevOps Engineer | AWS-SAM • Python • Serverless
 
 I'm a Computer Engineering graduate with a passion for **Cloud Engineering** and **DevOps**.  
 I love building secure, serverless systems with AWS and automating the boring stuff.
@@ -6,12 +6,14 @@ I love building secure, serverless systems with AWS and automating the boring st
 ## 🛠️ What I’ve Built Recently
 
 ### [🔢 Serverless Number API](https://github.com/Jacob0720/serverless-number-api)
-A fully serverless Python API that checks if a number is even or prime.  
-Built with **Lambda**, **API Gateway**, and **DynamoDB**, deployed with **AWS SAM**.
+A fully serverless Python API that checks if a number is even or prime.
 
-- Logs usage to DynamoDB
-- Written in Python 3.11
-- 100% Infrastructure-as-Code
+**Tech Used:** AWS Lambda · API Gateway · DynamoDB · AWS SAM · Python 3.11  
+**Features:**
+- Serverless architecture
+- Uses DynamoDB for logging calls
+- Fully deployed using AWS SAM
+
 
 ## 🌩️ Tech I Work With
 
